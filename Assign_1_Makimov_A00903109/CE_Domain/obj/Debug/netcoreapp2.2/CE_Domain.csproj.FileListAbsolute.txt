@@ -1,0 +1,9 @@
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Domain\bin\Debug\netcoreapp2.2\CE_Domain.deps.json
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Domain\bin\Debug\netcoreapp2.2\CE_Domain.dll
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Domain\obj\Debug\netcoreapp2.2\CE_Domain.csprojAssemblyReference.cache
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Domain\obj\Debug\netcoreapp2.2\CE_Domain.csproj.CoreCompileInputs.cache
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Domain\obj\Debug\netcoreapp2.2\CE_Domain.AssemblyInfoInputs.cache
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Domain\obj\Debug\netcoreapp2.2\CE_Domain.AssemblyInfo.cs
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Domain\bin\Debug\netcoreapp2.2\CE_Domain.pdb
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Domain\obj\Debug\netcoreapp2.2\CE_Domain.dll
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Domain\obj\Debug\netcoreapp2.2\CE_Domain.pdb

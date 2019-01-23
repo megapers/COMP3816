@@ -1,0 +1,16 @@
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\bin\Debug\netcoreapp2.2\CE_Console.deps.json
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\bin\Debug\netcoreapp2.2\CE_Console.runtimeconfig.json
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\bin\Debug\netcoreapp2.2\CE_Console.runtimeconfig.dev.json
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\bin\Debug\netcoreapp2.2\CE_Console.dll
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\bin\Debug\netcoreapp2.2\CE_Console.pdb
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\bin\Debug\netcoreapp2.2\CE_Data.dll
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\bin\Debug\netcoreapp2.2\CE_Domain.dll
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\bin\Debug\netcoreapp2.2\CE_Data.pdb
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\bin\Debug\netcoreapp2.2\CE_Domain.pdb
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\obj\Debug\netcoreapp2.2\CE_Console.csprojAssemblyReference.cache
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\obj\Debug\netcoreapp2.2\CE_Console.csproj.CoreCompileInputs.cache
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\obj\Debug\netcoreapp2.2\CE_Console.AssemblyInfoInputs.cache
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\obj\Debug\netcoreapp2.2\CE_Console.AssemblyInfo.cs
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\obj\Debug\netcoreapp2.2\CE_Console.csproj.CopyComplete
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\obj\Debug\netcoreapp2.2\CE_Console.dll
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Console\obj\Debug\netcoreapp2.2\CE_Console.pdb

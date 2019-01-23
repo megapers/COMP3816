@@ -1,0 +1,14 @@
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\obj\Debug\netcoreapp2.2\CE_Data.csprojAssemblyReference.cache
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\obj\Debug\netcoreapp2.2\CE_Data.csproj.CoreCompileInputs.cache
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\obj\Debug\netcoreapp2.2\CE_Data.AssemblyInfoInputs.cache
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\obj\Debug\netcoreapp2.2\CE_Data.AssemblyInfo.cs
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\bin\Debug\netcoreapp2.2\CE_Data.deps.json
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\bin\Debug\netcoreapp2.2\CE_Data.dll
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\bin\Debug\netcoreapp2.2\CE_Domain.dll
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\bin\Debug\netcoreapp2.2\CE_Domain.pdb
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\obj\Debug\netcoreapp2.2\CE_Data.csproj.CopyComplete
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\bin\Debug\netcoreapp2.2\CE_Data.runtimeconfig.json
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\bin\Debug\netcoreapp2.2\CE_Data.runtimeconfig.dev.json
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\bin\Debug\netcoreapp2.2\CE_Data.pdb
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\obj\Debug\netcoreapp2.2\CE_Data.dll
+C:\Users\megap\Desktop\Everything\BCIT\PT\3618\1\Assign1_Makimov_A00903109\Course_Enrollment\CE_Data\obj\Debug\netcoreapp2.2\CE_Data.pdb
