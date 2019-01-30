@@ -1,0 +1,11 @@
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.deps.json
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.runtimeconfig.json
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.runtimeconfig.dev.json
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\megap\source\repos\WPFwithEFCore2\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb

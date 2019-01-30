@@ -1,0 +1,14 @@
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\bin\Debug\netcoreapp2.2\NETCoreConsoleApp.deps.json
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\bin\Debug\netcoreapp2.2\NETCoreConsoleApp.runtimeconfig.json
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\bin\Debug\netcoreapp2.2\NETCoreConsoleApp.runtimeconfig.dev.json
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\bin\Debug\netcoreapp2.2\NETCoreConsoleApp.dll
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\bin\Debug\netcoreapp2.2\NETCoreConsoleApp.pdb
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\bin\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\obj\Debug\netcoreapp2.2\NETCoreConsoleApp.csprojAssemblyReference.cache
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\obj\Debug\netcoreapp2.2\NETCoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\obj\Debug\netcoreapp2.2\NETCoreConsoleApp.AssemblyInfoInputs.cache
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\obj\Debug\netcoreapp2.2\NETCoreConsoleApp.AssemblyInfo.cs
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\obj\Debug\netcoreapp2.2\NETCoreConsoleApp.csproj.CopyComplete
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\obj\Debug\netcoreapp2.2\NETCoreConsoleApp.dll
+C:\Users\megap\source\repos\WPFwithEFCore2\NETCoreConsoleApp\obj\Debug\netcoreapp2.2\NETCoreConsoleApp.pdb
